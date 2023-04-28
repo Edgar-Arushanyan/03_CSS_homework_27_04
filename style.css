@@ -45,7 +45,7 @@ h1 {
 }
 
 .central {
-    left: 440px;
+    left: 35%;
 }
 
 .left > div, .right > div, .central >div {
